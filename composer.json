@@ -1,6 +1,6 @@
 {
     "name": "ivanmercedes/hermes",
-    "description": "Hermes Router component",
+    "description": "A fast, attribute-based HTTP router for PHP inspired by FastAPI.",
     "type": "library",
     "license": "MIT",
     "autoload": {
