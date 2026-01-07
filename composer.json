@@ -1,0 +1,26 @@
+{
+    "name": "ivanmercedes/hermes",
+    "description": "Hermes Router component",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hermes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Mercedes",
+            "email": "ivanmercede@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}
