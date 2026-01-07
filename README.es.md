@@ -166,7 +166,7 @@ php -S localhost:8000 examples/server.php
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE.md) para más detalles.
 
 ## Contribuir
 
