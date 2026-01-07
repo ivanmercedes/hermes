@@ -1,6 +1,6 @@
 <?php
 
-namespace Hermes\Routing\Router\Exceptions;
+namespace Hermes\Router\Exceptions;
 
 use RuntimeException;
 
